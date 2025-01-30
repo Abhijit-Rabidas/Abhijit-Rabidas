@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [abhijitrabidas.live](abhijitrabidas.live)
+- 👨‍💻 All of my projects are available at [https://www.abhijitrabidas.live/](https://www.abhijitrabidas.live/)
 
 - 📫 How to reach me **abhijit.rabidas.mca@gmail.com**
 
