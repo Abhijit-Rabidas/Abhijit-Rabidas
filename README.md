@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhijit Rabidas</h1>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://github.com/Abhijit-Rabidas/Abhijit-Rabidas/blob/main/abhijit_rabidas.gif" alt="Abhijit Rabidas" />
 </h1>
 <p align="center">
   <a href="https://github.com/Abhijit-Rabidas">
