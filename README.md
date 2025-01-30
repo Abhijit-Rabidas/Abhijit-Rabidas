@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Abhijit-Rabidas/Abhijit-Rabidas/blob/main/abhijit_rabidas.gif" alt="Abhijit Rabidas" />
+  <img src="https://github.com/Abhijit-Rabidas/Abhijit-Rabidas/blob/main/ajdas.gif" alt="Abhijit Rabidas" />
 </h1>
 <p align="center">
   <a href="https://github.com/Abhijit-Rabidas">
