@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhijit.rabidas.mca@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D_a6HLs1XTmujlIo07vEmi0MDQKGPeQ0/view?usp=drive_link](https://drive.google.com/file/d/1D_a6HLs1XTmujlIo07vEmi0MDQKGPeQ0/view?usp=drive_link)
+- 📄 Know about my experiences [https://shorturl.at/vSwLw](https://shorturl.at/vSwLw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
