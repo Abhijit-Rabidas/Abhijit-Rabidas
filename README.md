@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhijit Rabidas</h1>
-<h3 align="center">Currently pursuing my MCA from Jadavpur University</h3>
+
+<p align="center">
+  <a href="https://github.com/Abhijit-Rabidas">
+</p>
+<p align="center">
+  <a href="https://github.com/Abhijit-Rabidas/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Pursuing%20MCA%20from%20Jadavpur%20University;&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit-rabidas&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit-rabidas" /> </p>
 
